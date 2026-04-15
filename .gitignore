@@ -6,6 +6,5 @@ dist/
 wheels/
 *.egg-info
 mvp.txt
-README.md
 # Virtual environments
 .venv
