@@ -99,6 +99,6 @@ python3 verify_shell.py
 - `main.py` — placeholder module for project entrypoint
 - `pyproject.toml` — project metadata and dependencies
 
-## Notes
+### Notes
 
 This shell is designed for learning and experimentation. It is not intended to replace a full-featured system shell.
